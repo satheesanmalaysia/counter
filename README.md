@@ -1,6 +1,11 @@
 # Getting Started with Create React App
-
+This is a test project done by satheesan for an assesment 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+### Live Url for this project 
+
+This project is deployed on following path - https://nokia-counter.vercel.app/
+
 
 ## Available Scripts
 
