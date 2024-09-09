@@ -1,0 +1,39 @@
+.nokia-counter-container {
+    text-align: center;
+    margin-top: 100px;
+  }
+  
+  .nokia-counter-display {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .counter-button {
+    font-size: 2rem;
+    padding: 10px 20px;
+    margin: 0 20px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .counter-button:hover {
+    background-color: #45a049;
+  }
+  
+  .count {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
+  .error-message {
+    color: red;
+    margin-top: 20px;
+    font-weight: bold;
+  }
+  
