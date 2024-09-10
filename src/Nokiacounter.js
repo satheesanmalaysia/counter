@@ -38,7 +38,7 @@ const Nokiacounter = () => {
 
   return (
     <div>
-    <div>This is a test done by satheesan for an assessement - 11/9/23</div>
+    <div>This is a test done by satheesan for an assessement - 11/9/24</div>
     <div className="nokia-counter-container">
       <h1>Nokia Test Counter</h1>
       <div className="nokia-counter-display">
